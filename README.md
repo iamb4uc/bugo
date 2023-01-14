@@ -1,4 +1,4 @@
-# B4UC's Hugo Theme (BUGO)
+# B4UC's Hugo (BUGO)
 
 ## forked from yihui xie's xmin theme
 
